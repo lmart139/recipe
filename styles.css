@@ -189,6 +189,7 @@ figure {
 }
  
 footer {
+    height: 600px;
     background-color: white;
     font-family: 'Bebas Neue', cursive;
     font-size: 20px;
